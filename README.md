@@ -37,3 +37,22 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
    npm run start
    ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source : 
+https://github.com/airdropinsiders/KaleidoFinance-Auto-Bot?tab=readme-ov-file
