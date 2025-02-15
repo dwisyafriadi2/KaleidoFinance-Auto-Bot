@@ -1,8 +1,11 @@
 # Kaleido Auto Bot 🤖
 THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
+## Join Telegram Channel
+- https://t.me/dasarpemulung
+
 ## Register
-- https://kaleidofinance.xyz/testnet?ref=ZXTAEAVF
+- [Register](https://kaleidofinance.xyz/testnet?ref=29YU9NFM)
 
 ## 🌟 Features
 
